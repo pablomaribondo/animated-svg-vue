@@ -1,24 +1,13 @@
-# animated-svg
+# Animated SVG
 
-## Project setup
-```
-npm install
-```
+## Desenvolvido com
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+* [Vue.js](https://vuejs.org/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Referência
 
-### Lints and fixes files
-```
-npm run lint
-```
+* [SVG Animated Vue Component](https://codepen.io/michaelhejja/pen/vggxvo)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Screenshot
+
+![alt text](screenshot.png)
